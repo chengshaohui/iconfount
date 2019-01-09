@@ -1,0 +1,12 @@
+Font license info
+
+
+## iconfount
+
+   Copyright (C) 2018 by original authors
+
+   Author:    Youzan FE
+   License:   MIT (https://opensource.org/licenses/MIT)
+   Homepage:  http://www.youzan.com
+
+
